@@ -33,6 +33,7 @@ Currently learning **Statistics** and **Machine Learning** to expand my analytic
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-579ACA?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 #### 📚 Currently Learning
@@ -51,31 +52,32 @@ Currently learning **Statistics** and **Machine Learning** to expand my analytic
 - **🎧 Spotify Songs Dataset Analysis**  
   - Analyzed track popularity, audio features, and artist trends using Python and SQL.
 
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-raj-6a48a7238/)
-- 📧 Email: parmararyan9955@gmail.com
+- **🏙️ NYC Airbnb Dataset (Current)**  
+  - Exploratory data analysis using pandas, seaborn & matplotlib  
+  - Focus: Neighbourhood pricing, availability & host performance  
 
 ---
 
-### 🌟 What I Focus On
-
-- Writing **clean, efficient code** for data analysis  
-- Building **real-world projects** that solve problems  
-- Learning with a **curious & growth-driven mindset**  
-- Mastering tools and skills that add **career value**  
-- Communicating data insights clearly and effectively  
-
----
-
-### ⚡ Fun Fact
-
-> I treat datasets like puzzles – the more messy and raw, the more exciting it is to decode them!
-
----
+### 📫 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=300&lines=Let's+Connect+%F0%9F%9A%80;Reach+out+to+collab+or+chat!" alt="Connect Typing" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYANRAJ1121&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" />
+  <a href="mailto:parmararyan9955@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-raj-6a48a7238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### 🔥 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARYANRAJ1121&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARYANRAJ1121&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ARYANRAJ1121&theme=tokyonight&hide_border=false&fire=EB5454&ring=9B59B6" height="180px"/>
 </p>
