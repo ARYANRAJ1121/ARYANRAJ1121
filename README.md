@@ -56,9 +56,9 @@ Currently learning **Statistics** and **Machine Learning** to expand my analytic
   - Completed EDA using pandas, seaborn & matplotlib  
   - Focused on neighbourhood pricing, availability & host performance  
 
-- **🧠 Walmart Recruiting - Store Sales Forecasting (Ongoing)**  
+- **🧠 Walmart360: Sales Analysis & Visualization Toolkit (Ongoing)**  
   - Cleaning with **pandas & numpy**, writing **SQL queries**, and creating **visuals using matplotlib & seaborn**  
-  - Forecasting sales and discovering drivers of performance across stores  
+   
 
 ---
 
