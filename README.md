@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 I'm a Computer Science student with a passion for solving real-world problems using data.  
-I’ve worked on **Walmart** and **Spotify** datasets to explore trends, clean and analyze data, and generate business insights using Python and SQL.  
+I’ve worked on **Walmart**, **Spotify**, and **NYC Airbnb** datasets to explore trends, clean and analyze data, and generate business insights using Python and SQL.  
 Currently learning **Statistics** and **Machine Learning** to expand my analytical and modeling skills.
 
 ---
@@ -46,15 +46,19 @@ Currently learning **Statistics** and **Machine Learning** to expand my analytic
 
 ### 📁 Projects
 
-- **🔍 Walmart Sales Analysis**  
+- **🔍 Walmart Sales Analysis (Completed)**  
   - Performed sales trend analysis, holiday effect detection, and region-wise performance study.
 
 - **🎧 Spotify Songs Dataset Analysis**  
   - Analyzed track popularity, audio features, and artist trends using Python and SQL.
 
-- **🏙️ NYC Airbnb Dataset (Current)**  
-  - Exploratory data analysis using pandas, seaborn & matplotlib  
-  - Focus: Neighbourhood pricing, availability & host performance  
+- **🏙️ NYC Airbnb Dataset**  
+  - Completed EDA using pandas, seaborn & matplotlib  
+  - Focused on neighbourhood pricing, availability & host performance  
+
+- **🧠 Walmart Recruiting - Store Sales Forecasting (Ongoing)**  
+  - Cleaning with **pandas & numpy**, writing **SQL queries**, and creating **visuals using matplotlib & seaborn**  
+  - Forecasting sales and discovering drivers of performance across stores  
 
 ---
 
