@@ -82,7 +82,7 @@ Currently learning **Statistics** and **Machine Learning** to expand my analytic
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYANRAJ1121&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ARYANRAJ1121&theme=tokyonight&hide_border=false&fire=EB5454&ring=9B59B6" height="180px"/>
-</p>
+<div align="center"> <img src="https://img.shields.io/badge/GitHub Stats-Aryan's Profile-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+<br><br>
+
+<table style="width:70%; min-width:300px; border: 1px solid #333; border-radius: 15px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15); backdrop-filter: blur(10px); background: rgba(255, 255, 255, 0.03); color: #f8f8f8; font-family: 'Segoe UI', sans-serif;"> <tr> <td style="padding: 15px 25px;"> <h3 style="margin-bottom: 10px;">🌟 Aryan's GitHub Stats</h3> <ul style="list-style: none; padding-left: 0; font-size: 16px;"> <li>✨ <b>Total Stars Earned:</b> 2</li> <li>🔁 <b>Total Commits (2025):</b> 14</li> <li>📌 <b>Total PRs:</b> 0</li> <li>🐞 <b>Total Issues:</b> 0</li> <li>💻 <b>Contributed (last year):</b> 0</li> </ul> </td> <td style="text-align: center;"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="80" style="opacity: 0.4;" /> <p style="font-size: 32px; margin-top: 10px;">C</p> </td> </tr> </table> </div>
