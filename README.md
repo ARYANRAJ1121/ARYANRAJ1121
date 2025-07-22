@@ -8,8 +8,9 @@
 ---
 
 ### 🚀 About Me
+
 I'm a Computer Science student with a passion for solving real-world problems using data.  
-I’ve worked on **Walmart**, **Spotify**, and **NYC Airbnb** datasets to explore trends, clean and analyze data, and generate business insights using Python and SQL.  
+I’ve worked on **Walmart**, **Spotify**, **Zomato**, and **NYC Airbnb** datasets to explore trends, clean and analyze data, and generate business insights using Python and SQL.  
 Currently learning **Statistics** and **Machine Learning** to expand my analytical and modeling skills.
 
 ---
@@ -48,17 +49,22 @@ Currently learning **Statistics** and **Machine Learning** to expand my analytic
 
 ### 📁 Projects
 
+- **🍽️ Zomato Bangalore Data Analysis**  
+  - Cleaned 9,000+ entries of restaurant data  
+  - Analyzed cuisine, service type, pricing vs rating, and location heatmaps  
+  - Used violin plots, KDE, heatmaps, and advanced grouping to extract business insights
+
 - **🔍 Walmart Sales Analysis (Completed)**  
-  - Performed sales trend analysis, holiday effect detection, and region-wise performance study.
+  - Performed sales trend analysis, holiday effect detection, and region-wise performance study using SQL and Pandas
 
 - **🎧 Spotify Songs Dataset Analysis**  
-  - Analyzed track popularity, audio features, and artist trends using Python and SQL.
+  - Analyzed track popularity, audio features, and artist trends using Python and SQL
 
 - **🏙️ NYC Airbnb Dataset**  
   - Completed EDA using pandas, seaborn & matplotlib  
   - Focused on neighbourhood pricing, availability & host performance  
 
-- **🧠 Walmart360: Sales Analysis & Visualization Toolkit (Ongoing)**  
+- **🧠 Walmart360: Sales Analysis & Visualization Toolkit (🚧 Ongoing)**  
   - Cleaning with **pandas & numpy**, writing **SQL queries**, and creating **visuals using matplotlib & seaborn**
 
 ---
@@ -82,7 +88,25 @@ Currently learning **Statistics** and **Machine Learning** to expand my analytic
 
 ### 📊 GitHub Stats
 
-<div align="center"> <img src="https://img.shields.io/badge/GitHub Stats-Aryan's Profile-5865F2?style=for-the-badge&logo=github&logoColor=white" />
-<br><br>
-
-<table style="width:70%; min-width:300px; border: 1px solid #333; border-radius: 15px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15); backdrop-filter: blur(10px); background: rgba(255, 255, 255, 0.03); color: #f8f8f8; font-family: 'Segoe UI', sans-serif;"> <tr> <td style="padding: 15px 25px;"> <h3 style="margin-bottom: 10px;">🌟 Aryan's GitHub Stats</h3> <ul style="list-style: none; padding-left: 0; font-size: 16px;"> <li>✨ <b>Total Stars Earned:</b> 2</li> <li>🔁 <b>Total Commits (2025):</b> 14</li> <li>📌 <b>Total PRs:</b> 0</li> <li>🐞 <b>Total Issues:</b> 0</li> <li>💻 <b>Contributed (last year):</b> 0</li> </ul> </td> <td style="text-align: center;"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="80" style="opacity: 0.4;" /> <p style="font-size: 32px; margin-top: 10px;">C</p> </td> </tr> </table> </div>
+<div align="center"> 
+  <img src="https://img.shields.io/badge/GitHub Stats-Aryan's Profile-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+  <br><br>
+  <table style="width:70%; min-width:300px; border: 1px solid #333; border-radius: 15px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15); backdrop-filter: blur(10px); background: rgba(255, 255, 255, 0.03); color: #f8f8f8; font-family: 'Segoe UI', sans-serif;">
+    <tr>
+      <td style="padding: 15px 25px;">
+        <h3 style="margin-bottom: 10px;">🌟 Aryan's GitHub Stats</h3>
+        <ul style="list-style: none; padding-left: 0; font-size: 16px;">
+          <li>✨ <b>Total Stars Earned:</b> 2</li>
+          <li>🔁 <b>Total Commits (2025):</b> 14</li>
+          <li>📌 <b>Total PRs:</b> 0</li>
+          <li>🐞 <b>Total Issues:</b> 0</li>
+          <li>💻 <b>Contributed (last year):</b> 0</li>
+        </ul>
+      </td>
+      <td style="text-align: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="80" style="opacity: 0.4;" />
+        <p style="font-size: 32px; margin-top: 10px;">C</p>
+      </td>
+    </tr>
+  </table>
+</div>
