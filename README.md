@@ -1,6 +1,5 @@
-this is my github remove unwanted projects or redesign if needed 
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
-<h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | Turning Raw Data into Real Insights</h3>
+<h3 align="center">Data Analyst | Python & SQL Enthusiast | Turning Raw Data into Real Insights</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
@@ -40,11 +39,6 @@ Currently learning **Statistics** and **Machine Learning** to expand my analytic
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-#### 📚 Currently Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Statistics-ff6f61?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-9c27b0?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
 
 ---
 
