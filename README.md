@@ -21,7 +21,6 @@ My work centers on:
 - Python-driven exploratory analysis  
 - Translating data into **clear business insights**
 
-This GitHub is curated as a **professional analytics portfolio**, not a collection of practice code.
 
 ---
 
