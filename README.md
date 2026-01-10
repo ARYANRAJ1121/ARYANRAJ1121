@@ -1,117 +1,80 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Aryan%20Raj&fontAlign=50&fontAlignY=35&color=gradient&fontSize=46" />
-</p>
-
-<h3 align="center">
-Data Analyst | SQL • Python • Business Analytics
-</h3>
+this is my github remove unwanted projects or redesign if needed 
+<h1 align="center">Hi 👋, I'm Aryan Raj</h1>
+<h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | Turning Raw Data into Real Insights</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Business+Insights;Focused+on+SQL+and+Exploratory+Data+Analysis;Portfolio+Driven+Learning" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 👤 Profile
+### 🚀 About Me
 
-I am a **Computer Science undergraduate** building a focused career in **Data Analytics**.
-
-My work centers on:
-- SQL-based data analysis  
-- Python-driven exploratory analysis  
-- Translating data into **clear business insights**
-
+I'm a Computer Science student with a passion for solving real-world problems using data.  
+I’ve worked on **Walmart**, **Spotify**, **Zomato**, and **NYC Airbnb** datasets to explore trends, clean and analyze data, and generate business insights using Python and SQL.  
+Currently learning **Statistics** and **Machine Learning** to expand my analytical and modeling skills.
 
 ---
 
-## 🛠 Core Analytics Stack
+### 🧠 Skills & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,pandas,numpy&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,powerbi,streamlit&theme=dark" />
+#### 👨‍💻 Languages & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### 📊 Data Analysis & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-579ACA?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+#### 📚 Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Statistics-ff6f61?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-9c27b0?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Selected Projects
+### 📁 Projects
 
-<table>
-<tr>
-<td width="50%" style="background:rgba(255,255,255,0.06);border-radius:14px;padding:18px">
+- **🍽️ Zomato Bangalore Data Analysis**  
+  - Cleaned 9,000+ entries of restaurant data  
+  - Analyzed cuisine, service type, pricing vs rating, and location heatmaps  
+  - Used violin plots, KDE, heatmaps, and advanced grouping to extract business insights
 
-### 🍽️ Zomato Bangalore Restaurant Analysis  
-**Focus:** Pricing, ratings & location dynamics  
-- 9,000+ restaurants analyzed  
-- Cost vs rating patterns  
-- Location-based insights  
+- **🔍 Walmart Sales Analysis (Completed)**  
+  - Performed sales trend analysis, holiday effect detection, and region-wise performance study using SQL and Pandas
 
-</td>
+- **🎧 Spotify Songs Dataset Analysis**  
+  - Analyzed track popularity, audio features, and artist trends using Python and SQL
 
-<td width="50%" style="background:rgba(255,255,255,0.06);border-radius:14px;padding:18px">
+- **🏙️ NYC Airbnb Dataset**  
+  - Completed EDA using pandas, seaborn & matplotlib  
+  - Focused on neighbourhood pricing, availability & host performance  
 
-### 🛒 Walmart Sales Analysis  
-**Focus:** Sales trends & seasonality  
-- Holiday vs non-holiday impact  
-- Regional performance  
-- SQL + Pandas workflow  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" style="background:rgba(255,255,255,0.06);border-radius:14px;padding:18px">
-
-### 🏙️ NYC Airbnb Market Analysis  
-**Focus:** Marketplace pricing & availability  
-- Neighborhood pricing patterns  
-- Host performance metrics  
-- Demand & availability trends  
-
-</td>
-
-<td width="50%" style="background:rgba(255,255,255,0.06);border-radius:14px;padding:18px">
-
-### 🧠 Advanced SQL Analytics (Ongoing)  
-**Focus:** Business metrics on simulated SaaS data  
-- Schema design  
-- Window functions  
-- Retention & KPI analysis  
-
-</td>
-</tr>
-</table>
+- **🧠 Walmart360: Sales Analysis & Visualization Toolkit (🚧 Ongoing)**  
+  - Cleaning with **pandas & numpy**, writing **SQL queries**, and creating **visuals using matplotlib & seaborn**
 
 ---
 
-## 📈 Consistency
+### 📫 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=300&lines=Let's+Connect+%F0%9F%9A%80;Reach+out+to+collab+or+chat!" alt="Connect Typing" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanraj1121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanraj1121&theme=tokyonight&hide_border=true" />
+  <a href="mailto:parmararyan9955@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-raj-6a48a7238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
-
-## 📚 Currently Learning
-
-- Statistics for Data Analysis  
-- Machine Learning fundamentals (concept-first approach)
-
----
-
-## 📬 Connect
-
-<p align="center">
-  <a href="mailto:parmararyan9955@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-DF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-raj-6a48a7238/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient" />
-</p>
