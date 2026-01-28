@@ -128,15 +128,6 @@ Analytics applied directly to retail strategy & planning.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARYANRAJ1121&theme=dark&hide_border=true" />
 </p>
 
----
-
-## 🧊 Contribution Graph 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ARYANRAJ1121/ARYANRAJ1121/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
----
 
 ## 📫 Let’s Connect 🤝
 
