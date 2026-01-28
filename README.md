@@ -1,74 +1,136 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
-<h3 align="center">Data Analyst | Python & SQL Enthusiast | Turning Raw Data into Real Insights</h3>
+<h3 align="center">Data Analyst | Business Analytics | Applied Machine Learning</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a Computer Science student with a passion for solving real-world problems using data.  
-I’ve worked on **Walmart**, **Spotify**, **Zomato**, and **NYC Airbnb** datasets to explore trends, clean and analyze data, and generate business insights using Python and SQL.  
-Currently learning **Statistics** and **Machine Learning** to expand my analytical and modeling skills.
+I’m a Computer Science student focused on **Data Analytics, Business Intelligence, and Applied Machine Learning**.  
+My strength lies in **asking the right business questions**, analyzing messy real-world data, and translating insights into **measurable, decision-ready outcomes**.
+
+I work primarily with **SQL and Python**, and my work spans:
+- Customer retention & churn analysis  
+- Sales, funnel & cohort analysis  
+- KPI design, dashboards & reporting  
+- Applying Machine Learning *where it actually adds value*  
+
+Currently deepening my foundation in **Statistics and Machine Learning** to ensure models are **interpretable, validated, and business-aligned** — not just accurate on paper.
 
 ---
 
-### 🧠 Skills & Tools
+## 🧠 Skills & Tools
 
-#### 👨‍💻 Languages & Libraries
+### 👨‍💻 Programming & Querying
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-#### 📊 Data Analysis & Visualization
+### 📊 Data Analysis & Visualization
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-579ACA?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-579ACA?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+### 📈 Business Intelligence & Reporting
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning (Applied)
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge"/>
+</p>
+
+**Concepts:**  
+Regression, Classification, Feature Engineering, Model Evaluation, Bias–Variance Tradeoff, Hypothesis Testing, A/B Testing
 
 ---
 
-### 📁 Projects
+## 📁 Featured Analytics Projects
 
-- **🍽️ Zomato Bangalore Data Analysis**  
-  - Cleaned 9,000+ entries of restaurant data  
-  - Analyzed cuisine, service type, pricing vs rating, and location heatmaps  
-  - Used violin plots, KDE, heatmaps, and advanced grouping to extract business insights
+### 📊 EdTech SaaS Retention & Churn Analysis
+**Tools:** PostgreSQL, Python, Pandas, Statistics  
+- Analyzed user engagement data to identify early churn indicators  
+- Built cohort-based retention and drop-off curves  
+- Demonstrated why ML churn models fail with weak early signals  
+- Used statistical validation instead of premature model fitting  
 
-- **🔍 Walmart Sales Analysis (Completed)**  
-  - Performed sales trend analysis, holiday effect detection, and region-wise performance study using SQL and Pandas
-
-- **🎧 Spotify Songs Dataset Analysis**  
-  - Analyzed track popularity, audio features, and artist trends using Python and SQL
-
-- **🏙️ NYC Airbnb Dataset**  
-  - Completed EDA using pandas, seaborn & matplotlib  
-  - Focused on neighbourhood pricing, availability & host performance  
-
-- **🧠 Walmart360: Sales Analysis & Visualization Toolkit (🚧 Ongoing)**  
-  - Cleaning with **pandas & numpy**, writing **SQL queries**, and creating **visuals using matplotlib & seaborn**
+**Business Outcome:**  
+Identified actionable intervention windows to reduce subscription churn.
 
 ---
 
-### 📫 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=300&lines=Let's+Connect+%F0%9F%9A%80;Reach+out+to+collab+or+chat!" alt="Connect Typing" />
+### 🛒 E-Commerce Business Intelligence Platform
+**Tools:** Advanced SQL, Python, Streamlit  
+- Designed an end-to-end BI workflow from raw transactions to KPIs  
+- Used CTEs, window functions, and joins for funnel & cohort analysis  
+- Built interactive dashboards for business stakeholders  
+- Converted complex data into executive-level metrics  
+
+**Business Outcome:**  
+Showcases full analytics lifecycle — data → insight → decision.
+
+---
+
+### 📦 Olist E-Commerce: Retention & ML Diagnostics
+**Tools:** Python, SQL, Statistics, scikit-learn  
+- Investigated low repeat purchase behavior despite stable revenue  
+- Built baseline ML models and analyzed their failure modes  
+- Identified weak predictive signals through exploratory & statistical analysis  
+- Shifted from prediction-first to insight-first analytics  
+
+**Business Outcome:**  
+Demonstrates when *not* to rely on ML — a critical real-world skill.
+
+---
+
+### 🏪 Retail Sales & Demand Analysis (Walmart Case Study)
+**Tools:** SQL, Pandas, Visualization  
+- Analyzed seasonality, holiday effects, and regional sales patterns  
+- Identified revenue drivers and underperforming categories  
+- Supported pricing and inventory-level decision-making  
+
+**Business Outcome:**  
+Practical example of analytics supporting retail strategy.
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="mailto:parmararyan9955@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aryan-raj-6a48a7238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
 </p>
 
 ---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:parmararyan9955@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-raj-6a48a7238/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Focused on analytics and machine learning that support real business decisions — not vanity models.*
