@@ -2,23 +2,21 @@
 <h3 align="center">Data Analyst | Business Analytics | Applied Machine Learning</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a Computer Science student focused on **Data Analytics, Business Intelligence, and Applied Machine Learning**.  
-My strength lies in **asking the right business questions**, analyzing messy real-world data, and translating insights into **measurable, decision-ready outcomes**.
+I’m a Computer Science student focused on **Data Analytics, Business Intelligence, and Applied Machine Learning**.
 
-I work primarily with **SQL and Python**, and my work spans:
-- Customer retention & churn analysis  
-- Sales, funnel & cohort analysis  
-- KPI design, dashboards & reporting  
-- Applying Machine Learning *only where it adds real business value*  
+I specialize in **turning messy, real-world data into decision-ready insights** by:
+- Asking the *right* business questions  
+- Designing meaningful KPIs and metrics  
+- Using statistics and ML **only when they add real value**  
 
-Currently deepening my foundation in **Statistics and Machine Learning** to ensure models are **interpretable, validated, and business-aligned** — not just accurate on paper.
+My core tools are **SQL and Python**, and my work emphasizes **interpretability, validation, and business impact** over vanity metrics or black-box models.
 
 ---
 
@@ -54,9 +52,9 @@ Currently deepening my foundation in **Statistics and Machine Learning** to ensu
   <img src="https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge"/>
 </p>
 
-**Concepts:**  
+**Core Concepts:**  
 Regression, Classification, Feature Engineering, Model Evaluation, Bias–Variance Tradeoff,  
-Hypothesis Testing, A/B Testing, Cohort Analysis
+Hypothesis Testing, A/B Testing, Cohort & Funnel Analysis
 
 ---
 
@@ -66,61 +64,69 @@ Hypothesis Testing, A/B Testing, Cohort Analysis
 **Tools:** PostgreSQL, Python, Pandas, Statistics  
 - Analyzed user engagement data to identify early churn indicators  
 - Built cohort-based retention and drop-off curves  
-- Demonstrated why churn prediction models fail with weak early signals  
-- Used statistical validation instead of premature model fitting  
+- Explained why churn prediction models fail with weak early signals  
+- Prioritized statistical validation over premature ML  
 
-**Business Outcome:**  
+**Business Impact:**  
 Identified actionable intervention windows to reduce subscription churn.
 
 ---
 
 ### 🛒 E-Commerce Business Intelligence Platform
 **Tools:** Advanced SQL, Python, Streamlit  
-- Designed an end-to-end BI workflow from raw transactions to KPIs  
+- Built an end-to-end BI workflow from raw transactions to KPIs  
 - Used CTEs, window functions, and joins for funnel & cohort analysis  
-- Built interactive dashboards for business stakeholders  
-- Converted complex data into executive-level metrics  
+- Designed dashboards for non-technical stakeholders  
+- Translated complex datasets into executive-level metrics  
 
-**Business Outcome:**  
-Showcases the full analytics lifecycle — data → insight → decision.
+**Business Impact:**  
+Demonstrates full analytics lifecycle — data → insight → decision.
 
 ---
 
 ### 📦 Olist E-Commerce: Retention & ML Diagnostics
 **Tools:** Python, SQL, Statistics, scikit-learn  
 - Investigated low repeat purchase behavior despite stable revenue  
-- Built baseline ML models and analyzed their failure modes  
-- Identified weak predictive signals using exploratory & statistical analysis  
-- Shifted from prediction-first to insight-first analytics  
+- Built baseline ML models and analyzed failure modes  
+- Identified weak predictive signals via EDA and statistical testing  
+- Shifted focus from prediction-first to insight-first analytics  
 
-**Business Outcome:**  
-Demonstrates when *not* to rely on ML — a critical real-world skill.
+**Business Impact:**  
+Shows strong judgment on *when not to use ML* — a real-world skill.
 
 ---
 
 ### 🏪 Retail Sales & Demand Analysis (Walmart Case Study)
 **Tools:** SQL, Pandas, Visualization  
-- Analyzed seasonality, holiday effects, and regional sales patterns  
+- Analyzed seasonality, holiday effects, and regional demand  
 - Identified revenue drivers and underperforming categories  
-- Supported pricing and inventory-level decision-making  
+- Supported pricing and inventory-level decisions  
 
-**Business Outcome:**  
-Practical example of analytics supporting retail strategy.
+**Business Impact:**  
+Practical analytics applied to retail strategy.
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARYANRAJ1121&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYANRAJ1121&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ARYANRAJ1121&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARYANRAJ1121&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-3d-contribution.vercel.app/api?username=ARYANRAJ1121&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer"/>
 </p>
 
 ---
@@ -138,4 +144,4 @@ Practical example of analytics supporting retail strategy.
 
 ---
 
-⭐ *Focused on analytics and applied machine learning that support real business decisions — not vanity models.*
+⭐ *Focused on analytics and applied machine learning that drive real business decisions — not decorative dashboards.*
