@@ -69,54 +69,6 @@ My goal is simple:
 
 ---
 
-## 📁 Featured Analytics Projects
-
-### 📊 EdTech SaaS Retention & Churn Analysis
-**🛠 Tools:** PostgreSQL, Python, Pandas, Statistics  
-- Analyzed user engagement to detect **early churn signals**  
-- Built **cohort-based retention curves** & drop-off analysis  
-- Explained why churn ML models fail with weak early indicators  
-- Focused on **statistical validation before modeling**  
-
-🎯 **Business Impact:**  
-Identified actionable intervention points to reduce subscription churn.
-
----
-
-### 🛒 E-Commerce Business Intelligence Platform
-**🛠 Tools:** Advanced SQL, Python, Streamlit  
-- Built an **end-to-end BI workflow** from raw data to KPIs  
-- Used **CTEs, window functions, and joins** for funnel analysis  
-- Designed **interactive dashboards** for stakeholders  
-- Converted complex data into **executive-level insights**  
-
-🎯 **Business Impact:**  
-Demonstrates the full analytics lifecycle — data ➝ insight ➝ decision.
-
----
-
-### 📦 Olist E-Commerce: Retention & ML Diagnostics
-**🛠 Tools:** Python, SQL, Statistics, scikit-learn  
-- Investigated low repeat purchases despite stable revenue  
-- Built baseline ML models and analyzed **failure modes**  
-- Identified weak predictive signals using EDA + stats  
-- Shifted from *prediction-first* to *insight-first* analytics  
-
-🎯 **Business Impact:**  
-Shows strong judgment on **when NOT to use ML** — a real-world skill.
-
----
-
-### 🏪 Retail Sales & Demand Analysis (Walmart Case Study)
-**🛠 Tools:** SQL, Pandas, Visualization  
-- Analyzed seasonality, holidays & regional demand  
-- Identified revenue drivers and underperforming categories  
-- Supported pricing & inventory decisions  
-
-🎯 **Business Impact:**  
-Analytics applied directly to retail strategy & planning.
-
----
 
 ## 📈 GitHub Activity 📊
 
