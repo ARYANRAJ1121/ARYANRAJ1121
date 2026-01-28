@@ -16,7 +16,7 @@ I work primarily with **SQL and Python**, and my work spans:
 - Customer retention & churn analysis  
 - Sales, funnel & cohort analysis  
 - KPI design, dashboards & reporting  
-- Applying Machine Learning *where it actually adds value*  
+- Applying Machine Learning *only where it adds real business value*  
 
 Currently deepening my foundation in **Statistics and Machine Learning** to ensure models are **interpretable, validated, and business-aligned** — not just accurate on paper.
 
@@ -55,7 +55,8 @@ Currently deepening my foundation in **Statistics and Machine Learning** to ensu
 </p>
 
 **Concepts:**  
-Regression, Classification, Feature Engineering, Model Evaluation, Bias–Variance Tradeoff, Hypothesis Testing, A/B Testing
+Regression, Classification, Feature Engineering, Model Evaluation, Bias–Variance Tradeoff,  
+Hypothesis Testing, A/B Testing, Cohort Analysis
 
 ---
 
@@ -65,7 +66,7 @@ Regression, Classification, Feature Engineering, Model Evaluation, Bias–Varian
 **Tools:** PostgreSQL, Python, Pandas, Statistics  
 - Analyzed user engagement data to identify early churn indicators  
 - Built cohort-based retention and drop-off curves  
-- Demonstrated why ML churn models fail with weak early signals  
+- Demonstrated why churn prediction models fail with weak early signals  
 - Used statistical validation instead of premature model fitting  
 
 **Business Outcome:**  
@@ -81,7 +82,7 @@ Identified actionable intervention windows to reduce subscription churn.
 - Converted complex data into executive-level metrics  
 
 **Business Outcome:**  
-Showcases full analytics lifecycle — data → insight → decision.
+Showcases the full analytics lifecycle — data → insight → decision.
 
 ---
 
@@ -89,7 +90,7 @@ Showcases full analytics lifecycle — data → insight → decision.
 **Tools:** Python, SQL, Statistics, scikit-learn  
 - Investigated low repeat purchase behavior despite stable revenue  
 - Built baseline ML models and analyzed their failure modes  
-- Identified weak predictive signals through exploratory & statistical analysis  
+- Identified weak predictive signals using exploratory & statistical analysis  
 - Shifted from prediction-first to insight-first analytics  
 
 **Business Outcome:**  
@@ -111,11 +112,15 @@ Practical example of analytics supporting retail strategy.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARYANRAJ1121&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ARYANRAJ1121&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARYANRAJ1121&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -133,4 +138,4 @@ Practical example of analytics supporting retail strategy.
 
 ---
 
-⭐ *Focused on analytics and machine learning that support real business decisions — not vanity models.*
+⭐ *Focused on analytics and applied machine learning that support real business decisions — not vanity models.*
