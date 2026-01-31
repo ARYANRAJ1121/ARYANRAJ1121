@@ -84,4 +84,4 @@ My goal is simple:
 
 ---
 
-⭐ *Focused on 📊 analytics, 📈 insights, and 🤖 machine learning that drive real business decisions — not decorative dashboards.*
+⭐ *Focused on 📊 analytics, 📈 insights, and 🤖 machine learning that drive real business decisions*
